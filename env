@@ -1,0 +1,6 @@
+groq_api_key = 'paste your api key'
+db_user = "paste the user name"
+db_password = "paste the password"
+db_host = "paste the host number"
+db_name = "paste the database name"
+db_port = "paste the port number"
