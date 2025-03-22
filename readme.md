@@ -4,9 +4,8 @@ This project develops an AI-powered SQL chatbot capable of interpreting natural 
 
 ## Files Details
 
-- .env : contains important keys and values
+- .env : contains important keys and values (change the filename from env to .env and paste your credentials)
 - requirements.txt : dependencies for this project
-- Sql_agent_chatbot_demo : Working demo of chatbot
 - sql_agent_for_pl_sql : codes for this task
 
 ## Project Overview
